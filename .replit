@@ -1,2 +1,2 @@
-language = "c"
-run = "gcc main.c -o main && .\main"
+language = "bash"
+run = "CFG/early/make.sh"

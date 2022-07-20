@@ -1,0 +1,12 @@
+S,A,B
+a,b
+8
+S->aB
+S->bA
+A->a
+A->aS
+A->bAA
+B->b
+B->bS
+B->aBB
+S
